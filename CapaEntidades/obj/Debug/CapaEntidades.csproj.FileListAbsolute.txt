@@ -1,0 +1,6 @@
+C:\Users\Sistemas\source\repos\SistemaWebCitas\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\Sistemas\source\repos\SistemaWebCitas\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\Sistemas\source\repos\SistemaWebCitas\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\Sistemas\source\repos\SistemaWebCitas\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas\source\repos\SistemaWebCitas\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\Sistemas\source\repos\SistemaWebCitas\CapaEntidades\obj\Debug\CapaEntidades.pdb
