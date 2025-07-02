@@ -219,6 +219,7 @@
     <Content Include="css\timepicker\bootstrap-timepicker.css" />
     <Content Include="css\timepicker\bootstrap-timepicker.min.css" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="frmGestionarPaciente.aspx" />
     <Content Include="img\ajax-loader.gif" />
     <Content Include="img\ajax-loader1.gif" />
     <Content Include="img\avatar.png" />
@@ -377,6 +378,13 @@
     <Content Include="Login.aspx" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="frmGestionarPaciente.aspx.cs">
+      <DependentUpon>frmGestionarPaciente.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmGestionarPaciente.aspx.designer.cs">
+      <DependentUpon>frmGestionarPaciente.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Home.Master.cs">
       <DependentUpon>Home.Master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

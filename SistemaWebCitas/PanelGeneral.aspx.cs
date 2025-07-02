@@ -14,7 +14,7 @@ namespace SistemaWebCitas
 
         }
         [System.Web.Services.WebMethod]
-        public  string Saludar(string nombre)
+        public static  string Saludar(string nombre)
         {
             return "Hola " + nombre;
         }

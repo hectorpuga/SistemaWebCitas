@@ -3,8 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Sistemas\\source\\repos\\SistemaWebCitas\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9B5219F2-945E-4BB6-B1BB-C1AD848EE073}|CapaLogicaNegocio\\CapaLogicaNegocio.csproj|c:\\users\\sistemas\\source\\repos\\sistemawebcitas\\capalogicanegocio\\pacientenl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5219F2-945E-4BB6-B1BB-C1AD848EE073}|CapaLogicaNegocio\\CapaLogicaNegocio.csproj|solutionrelative:capalogicanegocio\\pacientenl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74A8BFB9-635E-4D2D-8227-697054B1621C}|SistemaWebCitas\\CapaPresentacion.csproj|c:\\users\\sistemas\\source\\repos\\sistemawebcitas\\sistemawebcitas\\frmgestionarpaciente.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{74A8BFB9-635E-4D2D-8227-697054B1621C}|SistemaWebCitas\\CapaPresentacion.csproj|solutionrelative:sistemawebcitas\\frmgestionarpaciente.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74A8BFB9-635E-4D2D-8227-697054B1621C}|SistemaWebCitas\\CapaPresentacion.csproj|c:\\users\\sistemas\\source\\repos\\sistemawebcitas\\sistemawebcitas\\frmgestionarpaciente.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74A8BFB9-635E-4D2D-8227-697054B1621C}|SistemaWebCitas\\CapaPresentacion.csproj|solutionrelative:sistemawebcitas\\frmgestionarpaciente.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5219F2-945E-4BB6-B1BB-C1AD848EE073}|CapaLogicaNegocio\\CapaLogicaNegocio.csproj|c:\\users\\sistemas\\source\\repos\\sistemawebcitas\\capalogicanegocio\\empleadoln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5219F2-945E-4BB6-B1BB-C1AD848EE073}|CapaLogicaNegocio\\CapaLogicaNegocio.csproj|solutionrelative:capalogicanegocio\\empleadoln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD071106-715E-490C-9A2F-CE4B7F6340E3}|CapaAccesoDatos\\CapaAccesoDatos.csproj|c:\\users\\sistemas\\source\\repos\\sistemawebcitas\\capaaccesodatos\\pacientedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD071106-715E-490C-9A2F-CE4B7F6340E3}|CapaAccesoDatos\\CapaAccesoDatos.csproj|solutionrelative:capaaccesodatos\\pacientedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{74A8BFB9-635E-4D2D-8227-697054B1621C}|SistemaWebCitas\\CapaPresentacion.csproj|c:\\users\\sistemas\\source\\repos\\sistemawebcitas\\sistemawebcitas\\panelgeneral.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74A8BFB9-635E-4D2D-8227-697054B1621C}|SistemaWebCitas\\CapaPresentacion.csproj|solutionrelative:sistemawebcitas\\panelgeneral.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8BC961-D5BA-4705-840C-0B8D45E9FD6D}|CapaEntidades\\CapaEntidades.csproj|c:\\users\\sistemas\\source\\repos\\sistemawebcitas\\capaentidades\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8BC961-D5BA-4705-840C-0B8D45E9FD6D}|CapaEntidades\\CapaEntidades.csproj|solutionrelative:capaentidades\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74A8BFB9-635E-4D2D-8227-697054B1621C}|SistemaWebCitas\\CapaPresentacion.csproj|C:\\Users\\Sistemas\\source\\repos\\SistemaWebCitas\\sistemawebcitas\\home.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{74A8BFB9-635E-4D2D-8227-697054B1621C}|SistemaWebCitas\\CapaPresentacion.csproj|solutionrelative:sistemawebcitas\\home.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74A8BFB9-635E-4D2D-8227-697054B1621C}|SistemaWebCitas\\CapaPresentacion.csproj|C:\\Users\\Sistemas\\source\\repos\\SistemaWebCitas\\sistemawebcitas\\home.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74A8BFB9-635E-4D2D-8227-697054B1621C}|SistemaWebCitas\\CapaPresentacion.csproj|solutionrelative:sistemawebcitas\\home.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{74A8BFB9-635E-4D2D-8227-697054B1621C}|SistemaWebCitas\\CapaPresentacion.csproj|C:\\Users\\Sistemas\\source\\repos\\SistemaWebCitas\\sistemawebcitas\\panelgeneral.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
@@ -19,14 +51,6 @@
       "RelativeMoniker": "D:0:0:{74A8BFB9-635E-4D2D-8227-697054B1621C}|SistemaWebCitas\\CapaPresentacion.csproj|solutionrelative:sistemawebcitas\\css\\adminlte.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74A8BFB9-635E-4D2D-8227-697054B1621C}|SistemaWebCitas\\CapaPresentacion.csproj|C:\\Users\\Sistemas\\source\\repos\\SistemaWebCitas\\sistemawebcitas\\home.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{74A8BFB9-635E-4D2D-8227-697054B1621C}|SistemaWebCitas\\CapaPresentacion.csproj|solutionrelative:sistemawebcitas\\home.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74A8BFB9-635E-4D2D-8227-697054B1621C}|SistemaWebCitas\\CapaPresentacion.csproj|C:\\Users\\Sistemas\\source\\repos\\SistemaWebCitas\\sistemawebcitas\\home.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74A8BFB9-635E-4D2D-8227-697054B1621C}|SistemaWebCitas\\CapaPresentacion.csproj|solutionrelative:sistemawebcitas\\home.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{74A8BFB9-635E-4D2D-8227-697054B1621C}|SistemaWebCitas\\CapaPresentacion.csproj|C:\\Users\\Sistemas\\source\\repos\\SistemaWebCitas\\sistemawebcitas\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{74A8BFB9-635E-4D2D-8227-697054B1621C}|SistemaWebCitas\\CapaPresentacion.csproj|solutionrelative:sistemawebcitas\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
@@ -38,24 +62,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmpleadoLN.cs",
+              "DocumentMoniker": "C:\\Users\\Sistemas\\source\\repos\\SistemaWebCitas\\CapaLogicaNegocio\\EmpleadoLN.cs",
+              "RelativeDocumentMoniker": "CapaLogicaNegocio\\EmpleadoLN.cs",
+              "ToolTip": "C:\\Users\\Sistemas\\source\\repos\\SistemaWebCitas\\CapaLogicaNegocio\\EmpleadoLN.cs",
+              "RelativeToolTip": "CapaLogicaNegocio\\EmpleadoLN.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T23:35:08.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PacienteDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Sistemas\\source\\repos\\SistemaWebCitas\\CapaAccesoDatos\\PacienteDAO.cs",
+              "RelativeDocumentMoniker": "CapaAccesoDatos\\PacienteDAO.cs",
+              "ToolTip": "C:\\Users\\Sistemas\\source\\repos\\SistemaWebCitas\\CapaAccesoDatos\\PacienteDAO.cs",
+              "RelativeToolTip": "CapaAccesoDatos\\PacienteDAO.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAwwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:00:27.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PacienteNL.cs",
+              "DocumentMoniker": "C:\\Users\\Sistemas\\source\\repos\\SistemaWebCitas\\CapaLogicaNegocio\\PacienteNL.cs",
+              "RelativeDocumentMoniker": "CapaLogicaNegocio\\PacienteNL.cs",
+              "ToolTip": "C:\\Users\\Sistemas\\source\\repos\\SistemaWebCitas\\CapaLogicaNegocio\\PacienteNL.cs",
+              "RelativeToolTip": "CapaLogicaNegocio\\PacienteNL.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAswEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T21:55:02.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmGestionarPaciente.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Sistemas\\source\\repos\\SistemaWebCitas\\SistemaWebCitas\\frmGestionarPaciente.aspx.cs",
+              "RelativeDocumentMoniker": "SistemaWebCitas\\frmGestionarPaciente.aspx.cs",
+              "ToolTip": "C:\\Users\\Sistemas\\source\\repos\\SistemaWebCitas\\SistemaWebCitas\\frmGestionarPaciente.aspx.cs",
+              "RelativeToolTip": "SistemaWebCitas\\frmGestionarPaciente.aspx.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwDcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T20:11:28.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\Users\\Sistemas\\source\\repos\\SistemaWebCitas\\CapaEntidades\\Paciente.cs",
+              "RelativeDocumentMoniker": "CapaEntidades\\Paciente.cs",
+              "ToolTip": "C:\\Users\\Sistemas\\source\\repos\\SistemaWebCitas\\CapaEntidades\\Paciente.cs",
+              "RelativeToolTip": "CapaEntidades\\Paciente.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA8wB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T20:02:02.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmGestionarPaciente.aspx",
+              "DocumentMoniker": "C:\\Users\\Sistemas\\source\\repos\\SistemaWebCitas\\SistemaWebCitas\\frmGestionarPaciente.aspx",
+              "RelativeDocumentMoniker": "SistemaWebCitas\\frmGestionarPaciente.aspx",
+              "ToolTip": "C:\\Users\\Sistemas\\source\\repos\\SistemaWebCitas\\SistemaWebCitas\\frmGestionarPaciente.aspx",
+              "RelativeToolTip": "SistemaWebCitas\\frmGestionarPaciente.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-01T17:33:24.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "PanelGeneral.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Sistemas\\source\\repos\\SistemaWebCitas\\SistemaWebCitas\\PanelGeneral.aspx.cs",
               "RelativeDocumentMoniker": "SistemaWebCitas\\PanelGeneral.aspx.cs",
               "ToolTip": "C:\\Users\\Sistemas\\source\\repos\\SistemaWebCitas\\SistemaWebCitas\\PanelGeneral.aspx.cs",
               "RelativeToolTip": "SistemaWebCitas\\PanelGeneral.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-30T23:10:19.737Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "Login.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Sistemas\\source\\repos\\SistemaWebCitas\\SistemaWebCitas\\Login.aspx.cs",
               "RelativeDocumentMoniker": "SistemaWebCitas\\Login.aspx.cs",
@@ -63,11 +165,12 @@
               "RelativeToolTip": "SistemaWebCitas\\Login.aspx.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAA1wBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T18:37:41.921Z"
+              "WhenOpened": "2025-06-30T18:37:41.921Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "PanelGeneral.aspx",
               "DocumentMoniker": "C:\\Users\\Sistemas\\source\\repos\\SistemaWebCitas\\SistemaWebCitas\\PanelGeneral.aspx",
               "RelativeDocumentMoniker": "SistemaWebCitas\\PanelGeneral.aspx",
@@ -75,11 +178,12 @@
               "RelativeToolTip": "SistemaWebCitas\\PanelGeneral.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-06-30T18:35:48.888Z"
+              "WhenOpened": "2025-06-30T18:35:48.888Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Home.Master.cs",
               "DocumentMoniker": "C:\\Users\\Sistemas\\source\\repos\\SistemaWebCitas\\SistemaWebCitas\\Home.Master.cs",
               "RelativeDocumentMoniker": "SistemaWebCitas\\Home.Master.cs",
@@ -87,11 +191,12 @@
               "RelativeToolTip": "SistemaWebCitas\\Home.Master.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T18:12:14.769Z"
+              "WhenOpened": "2025-06-30T18:12:14.769Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Home.Master",
               "DocumentMoniker": "C:\\Users\\Sistemas\\source\\repos\\SistemaWebCitas\\SistemaWebCitas\\Home.Master",
               "RelativeDocumentMoniker": "SistemaWebCitas\\Home.Master",
@@ -99,11 +204,12 @@
               "RelativeToolTip": "SistemaWebCitas\\Home.Master",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-06-30T18:12:10.646Z"
+              "WhenOpened": "2025-06-30T18:12:10.646Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "AdminLTE.css",
               "DocumentMoniker": "C:\\Users\\Sistemas\\source\\repos\\SistemaWebCitas\\SistemaWebCitas\\css\\AdminLTE.css",
               "RelativeDocumentMoniker": "SistemaWebCitas\\css\\AdminLTE.css",
@@ -115,7 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "Login.aspx",
               "DocumentMoniker": "C:\\Users\\Sistemas\\source\\repos\\SistemaWebCitas\\SistemaWebCitas\\Login.aspx",
               "RelativeDocumentMoniker": "SistemaWebCitas\\Login.aspx",
@@ -123,7 +229,8 @@
               "RelativeToolTip": "SistemaWebCitas\\Login.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-06-30T17:57:20.786Z"
+              "WhenOpened": "2025-06-30T17:57:20.786Z",
+              "EditorCaption": ""
             }
           ]
         }
