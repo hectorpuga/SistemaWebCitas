@@ -7,3 +7,12 @@ C:\Users\Sistemas\source\repos\SistemaWebCitas\CapaAccesoDatos\bin\Debug\CapaEnt
 C:\Users\Sistemas\source\repos\SistemaWebCitas\CapaAccesoDatos\obj\Debug\CapaAcce.1AD5E18C.Up2Date
 C:\Users\Sistemas\source\repos\SistemaWebCitas\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
 C:\Users\Sistemas\source\repos\SistemaWebCitas\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
+C:\Users\Hector_Puga\Desktop\Capacitacion\Curso-C#\SistemaWebCitas\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Hector_Puga\Desktop\Capacitacion\Curso-C#\SistemaWebCitas\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Hector_Puga\Desktop\Capacitacion\Curso-C#\SistemaWebCitas\CapaAccesoDatos\bin\Debug\CapaEntidades.dll
+C:\Users\Hector_Puga\Desktop\Capacitacion\Curso-C#\SistemaWebCitas\CapaAccesoDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\Hector_Puga\Desktop\Capacitacion\Curso-C#\SistemaWebCitas\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Hector_Puga\Desktop\Capacitacion\Curso-C#\SistemaWebCitas\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Hector_Puga\Desktop\Capacitacion\Curso-C#\SistemaWebCitas\CapaAccesoDatos\obj\Debug\CapaAcce.1AD5E18C.Up2Date
+C:\Users\Hector_Puga\Desktop\Capacitacion\Curso-C#\SistemaWebCitas\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\Hector_Puga\Desktop\Capacitacion\Curso-C#\SistemaWebCitas\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb

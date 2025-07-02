@@ -4,6 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
+using System.Web.Services;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
@@ -48,23 +49,39 @@ namespace SistemaWebCitas
             return null;
         }
 
+
+        [WebMethod]
+        public static List<Paciente> ListarPacientes()
+        {
+            List<Paciente> Lista = null;
+            try
+            {
+
+                Lista = PacienteNL.getInstance().ListarPacientes();
+
+
+
+            }
+            catch (Exception e)
+            {
+                Lista = null;
+
+                throw e;
+            }
+
+            return Lista;
+        }
+
         protected void btnRegistrar_Click(object sender, EventArgs e)
         {
             Paciente objPaciente = GetEntity();
-            // El paciente envia
-
             bool response = PacienteNL.getInstance().RegistrarPaciente(objPaciente);
 
             if (response)
             {
-                Response.Write("<script>alert('REGISTRO Correcto');</script>");
-            }
-            else
-            {
-
-                Response.Write("<script>alert('REGISTRO INCORRECTO');</script>");
-
+                litMensaje.Text = "<script>Swal.fire('Éxito', 'Paciente registrado correctamente', 'success');</script>";
             }
         }
+
     }
 }

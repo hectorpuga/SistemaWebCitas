@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Web.Services;
 
 namespace CapaLogicaNegocio
 {
@@ -48,13 +49,14 @@ namespace CapaLogicaNegocio
 
         }
 
-        public List<Paciente> listarPacientes()
+        [WebMethod]
+        public List<Paciente> ListarPacientes()
         {
 
             try
             {
 
-                return PacienteDAO.getInstance().listarPacientes();
+                return PacienteDAO.getInstance().ListarPacientes();
 
 
             }

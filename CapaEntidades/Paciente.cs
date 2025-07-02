@@ -18,7 +18,7 @@ namespace CapaEntidades
 
         public int Edad {  get; set; }
 
-        public char Sexo { get; set; }
+        public Char Sexo { get; set; }
 
         public String NroDocumento { get; set; }
 
